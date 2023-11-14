@@ -8,7 +8,7 @@ public class Circle extends Shape
     public Circle(int amountOfEdges, String color, double radius)
     {
         super(amountOfEdges, color);
-        //_amountOfEdges = amountOfEdges;
+        _amountOfEdges = amountOfEdges;
         //_color = color;
         _radius = radius;
     }
