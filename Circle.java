@@ -5,11 +5,11 @@ public class Circle extends Shape
     //private String _color;
     private double _radius;
     
-    public Circle(int amountOfEdges, String color, double radius)
+    public Circle(int amountOfEdges, String c, double radius)
     {
-        super(amountOfEdges, color);
+        super(amountOfEdges, c);
         _amountOfEdges = amountOfEdges;
-        _color = color;
+        _color = c;
         _radius = radius;
     }
     
