@@ -1,7 +1,7 @@
 
 public class Circle extends Shape
 {
-    //private int _amountOfEdges;
+    private int _amountOfEdges;
     //private String _color;
     private double _radius;
     
